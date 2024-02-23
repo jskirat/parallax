@@ -1,0 +1,62 @@
+html,body{
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    color: #666;
+    font-weight: 400;
+    line-height: 0.8cm;
+}
+.travimg1{
+    background-image: url("travel.jpg");
+    height: 100%;
+    
+}
+.travimg2{
+    background-image: url("travel2.jpg");
+    min-height: 400px;
+}
+.travimg3{
+    background-image: url("travel4.jpg");
+    min-height: 600px;
+}
+.travimg4{
+    background-image: url("travel6.jpg");
+    min-height: 100%;
+}
+
+.travimg1,
+.travimg2,
+.travimg3,
+.travimg4{
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.ttext{
+    position: absolute;
+    top: 48%;
+    width: 100%;
+    text-align: center;
+    color: black;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+.txtbg{
+    background-color:#526760 ;
+    color: #C5FFFD;
+    padding: 20px;
+}
+.written1{
+    padding: 50px 80px;
+    text-align: center;
+}
+.section-light{
+    background-color: #f4f4f4;
+    color: #666;
+}
+.section-dark{
+    background-color: #282e34;
+    color: #ddd;
+}
