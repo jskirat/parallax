@@ -8,20 +8,20 @@ html,body{
     line-height: 0.8cm;
 }
 .travimg1{
-    background-image: url("travel.jpg");
+    background-image: url("travel.webp");
     height: 100%;
     
 }
 .travimg2{
-    background-image: url("travel2.jpg");
+    background-image: url("travel2.webp");
     min-height: 400px;
 }
 .travimg3{
-    background-image: url("travel4.jpg");
+    background-image: url("travel4.webp");
     min-height: 600px;
 }
 .travimg4{
-    background-image: url("travel6.jpg");
+    background-image: url("travel6.webp");
     min-height: 100%;
 }
 
